@@ -41,6 +41,60 @@ The following animation demonstrates the application functionality:
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
+## Pseudo Code for HTML
+
+1. A main header.
+2. Div element within container fluid
+3. List of time blocks with 24h to 12 hr conversion
+4. Text input fields
+5. Save buttons
+6. Font families
+7. Bootstrap component
+8. Jquery links
+
+## Pseudo Code for CSS
+
+1. HTML attributes and classes
+
+## Pseudo Code for JavaScript
+
+1. Tells engine to load HTML and CSS first.
+2. Displays current time and date.
+3. Get nearby values.
+4. Takes change from sibling HTML description attribute.
+5. Takes change from parent HTML ID attribute.
+6. Sets items to local storage.
+7. Loads saved data from local storage for each hour created. Should follow HTML 24h to 12 h conversion.
+8. Gets current number of hours.
+9. Use of Day.js
+10. Loops over time blocks.
+11. Checks if time is past, present, future. Clicks into HTML/CSS given classes of past, present, future.
+12. Re-runs function.
+
+Below are images of the user interface of the calendar as displayed to the user:
+
+![Description here.]()
+
+URL to deployed application:
+https://kaitlynatif.github.io/WorkDay_Scheduler/
+
+URL to GitHub repository:
+https://github.com/kaitlynatif/WorkDay_Scheduler
+
+For any questions, please contact me at kaitlynatif90@hotmail.com
+
+## License
+
+MIT License
+
+Copyright (c) [2023] [Kaitlyn Atif]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
@@ -101,34 +155,3 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
-
-## Pseudo Code for HTML
-
-1. A main header.
-2. Div element within container fluid
-3. List of time blocks with 24h to 12 hr conversion
-4. Text input fields
-5. Save buttons
-6. Font families
-7. Bootstrap component
-8. Jquery links
-
-## Pseudo Code for CSS
-
-1. HTML attributes and classes
-
-## Pseudo Code for JavaScript
-
-1. Tells engine to load HTML and CSS first.
-2. Displays current time and date.
-3. Get nearby values.
-4. Takes change from sibling HTML description attribute.
-5. Takes change from parent HTML ID attribute.
-6. Sets items to local storage.
-7. Loads saved data from local storage for each hour created. Should follow HTML 24h to 12 h conversion.
-8. Gets current number of hours.
-9. Use of Day.js
-10. Loops over time blocks.
-11. Checks if time is past, present, future. Clicks into HTML/CSS given classes of past, present, future.
-12. Re-runs function.
