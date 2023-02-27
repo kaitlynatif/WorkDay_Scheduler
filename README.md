@@ -45,7 +45,7 @@ The following animation demonstrates the application functionality:
 
 1. A main header.
 2. Div element within container fluid
-3. List of time blocks with 24h to 12 hr conversion
+3. List of time blocks with 24hr to 12hr conversion
 4. Text input fields
 5. Save buttons
 6. Font families
