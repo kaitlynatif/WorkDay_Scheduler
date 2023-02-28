@@ -34,9 +34,6 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
-
 ## Pseudo Code for HTML
 
 1. A main header.
@@ -69,7 +66,8 @@ The following animation demonstrates the application functionality:
 
 Below are images of the user interface of the calendar as displayed to the user:
 
-![Description here.]()
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/workday_scheduler_screenshot.png)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/workday_scheduler_screenshot2.png)
 
 URL to deployed application:
 https://kaitlynatif.github.io/WorkDay_Scheduler/
